@@ -1,0 +1,13 @@
+Connected to 127.0.0.1.
+220 pyftpdlib 1.5.9 ready.
+530 Log in with USER and PASS first.
+User (127.0.0.1:(none)): 331 Username ok, send password.
+Password: 
+230 Login successful.
+ftp> 200 Active data connection established.
+125 Data connection already open. Transfer starting.
+226 Transfer complete.
+ftp> 200 Active data connection established.
+125 Data connection already open. Transfer starting.
+226 Transfer complete.
+ftp> 221 Goodbye.
